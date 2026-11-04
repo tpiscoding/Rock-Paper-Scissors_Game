@@ -10,12 +10,12 @@ My Rock, Paper, Scissors game is a command-line Python game where the player com
 
 Requirements:
 - Python 3
-
+---------------------------------------------------
 How to Installation:
 1. Download or clone this repository.
 2. Open the project folder.
 3. Run the revised version of the game:
-
+---------------------------------------------------
 How to Play:
 1. Enter your name when prompted
 2. Select one of the following choices:
@@ -26,7 +26,7 @@ How to Play:
 4. The game determines the result of the round.
 5. The current score is displayed.
 6. Enter `y` to play another round or `n` to quit.
-----------------------------------------
+---------------------------------------------------
 
 Game Rules
 - Rock beats Scissors.
@@ -48,7 +48,7 @@ Inputs:
 - The result of each round.
 - The current player and computer scores.
 - The final scores when the player quits.
-
+---------------------------------------------------
 Error Handling:
 
 The game validates the player's choices.
@@ -56,7 +56,7 @@ The game validates the player's choices.
 If the player enters an invalid number or nonnumeric value, the program displays an error message and requests another selection.
 
 If the player enters anything other than `y` or `n` when asked to continue, the program requests valid input.
-
+---------------------------------------------------
 ```bash
 python "rock paper scissors revised.py"
 ```
@@ -65,7 +65,7 @@ Source Files:
 
 - `rock, paper, scissors.py` — Original game
 - `rock paper scissors revised.py` — Revised version
-
+---------------------------------------------------
 Feedback and Contributions:
 
 Bug reports and suggestions can be submitted through GitHub Issues.
