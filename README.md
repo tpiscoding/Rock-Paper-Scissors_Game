@@ -2,6 +2,7 @@
 Rock Paper Scissors Game
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/tpiscoding/Rock-Paper-Scissors_Game/badge)](https://scorecard.dev/viewer/?uri=github.com/tpiscoding/Rock-Paper-Scissors_Game)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/16320/badge)](https://www.bestpractices.dev/projects/16320)
 
 -- About --
 
