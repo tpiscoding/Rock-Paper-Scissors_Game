@@ -1,0 +1,18 @@
+Thank you for your interest in contributing to the project!
+
+Below are steps in how you can do so:
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes.
+4. Test your code locally before submitting.
+5. Submit a pull request with a short explanation of what you changed.
+
+Contribution Guidelines:
+- Game needs to continue to be functional
+- Uses Python 3 (and can have suggestion edits to use later python versions if you so choose)
+- Be clear and readable
+- Follow basic Python style conventions
+- Include a clear description in the pull request
+
+Where to report bugs or request features:
+https://github.com/tpiscoding/Rock-Paper-Scissors_Game/issues
