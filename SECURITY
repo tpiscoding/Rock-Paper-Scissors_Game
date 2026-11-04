@@ -1,0 +1,16 @@
+Security Policy
+-----------------
+
+What to do when reporting a vulnerability:
+If you discover a security issue in this project, please report it by opening a GitHub Issue:
+https://github.com/tpiscoding/Rock-Paper-Scissors_Game/issues
+
+-------------------------------------------------------------------------------------------
+What to include:
+- Issue Description
+- How to reproduce the issue
+- Known affected file/s (if known, if not it's okay to not include)
+-------------------------------------------------------------------------------------------
+
+Response:
+The project maintainer will review and respond to security reports as soon as humanely possible!
